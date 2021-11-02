@@ -1,8 +1,10 @@
-# Bienvenidos <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-dark-skin-tone.png"/>
+# Bienvenidos a mi espacio <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-dark-skin-tone.png"/>
 
-- 💻 Actualmente estoy trabajando en [Zoologic](https://www.zoologic.com.ar/).
-- 👨‍💻 Actualmente estoy aprendiendo PHP por mi cuenta.
-- 📫 Consultas: eliasvalenzuela953@gmail.com
+<p align="center"> 
+Soy Elias Valenzuela, desarrollador Full Stack 🖤
+Me considero una persona proactiva y autodidacta con ganas de aprender, entusiasmada e interesada en nuevos proyectos
+Se vienen grandes cambios 🖤 Hibytes 🖤
+</p>
 
 <h3 align="center">
 Skills
