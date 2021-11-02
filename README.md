@@ -6,24 +6,32 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div align="center" style="display:flex;">
+<img align="top" height="40px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
+<img align="top" height="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="top" height="40px" src="https://img.icons8.com/officel/480/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+<br>
+<img align="top" height="40px" src="https://image.flaticon.com/icons/png/128/732/732212.png">
+<img align="top" height="40px" src="https://image.flaticon.com/icons/png/128/732/732190.png">
+<img align="top" height="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="top" height="40px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</div>
 
-<a href="https://icons8.com/icon/55205/c-sharp-logotipo">C Sharp Logotipo icon by Icons8</a>
-<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
 
-
-
-
+<div align="center" style="display:flex;">
+  ### 🤖 Contact me:
 <a href="https://github.com/Elias-HUB"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/eliasvalenzuela/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 <a href="mailto:eliasvalenzuela953@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png"/></a>
+</div>
 
+<div align="center" style="display:flex;">
 <a href="https://github.com/Elias-HUB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-HUB&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Elias-HUB">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elias-HUB&show_icons=true&theme=dark&line_height=27" />
 </a>
- 
+</div>
