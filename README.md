@@ -4,24 +4,29 @@
 - 👨‍💻 Actualmente estoy aprendiendo PHP por mi cuenta.
 - 📫 Consultas: eliasvalenzuela953@gmail.com
 
+<h3 align="center">
 **Languages and Tools:**  
-
+</h3>
+  
 <div align="center" style="display:flex;">
-<img align="top" height="40px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-<img align="top" height="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="top" height="40px" src="https://img.icons8.com/officel/480/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/officel/480/000000/react.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <br>
-<img align="top" height="40px" src="https://image.flaticon.com/icons/png/128/732/732212.png">
-<img align="top" height="40px" src="https://image.flaticon.com/icons/png/128/732/732190.png">
-<img align="top" height="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="top" height="40px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732212.png">
+<img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732190.png">
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 
-
+<br>
+<br>
 <div align="center" style="display:flex;">
+  <p align="center"> 
   ### 🤖 Contact me:
+  </p>
 <a href="https://github.com/Elias-HUB"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/eliasvalenzuela/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 <a href="mailto:eliasvalenzuela953@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png"/></a>
