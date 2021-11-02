@@ -15,15 +15,12 @@ Skills
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <br>
-<br>
 <img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732212.png">
 <img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732190.png">
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 
-<br>
-<br>
 <div align="center" style="display:flex;">
   <h3 align="center"> 
   🤖 Contáctame:
@@ -34,8 +31,6 @@ Skills
 </div>
 
 <br>
-<br>
-
 <div align="center" style="display:flex;">
 <a href="https://github.com/Elias-HUB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-HUB&theme=dark&hide_langs_below=1" />
