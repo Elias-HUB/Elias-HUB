@@ -2,7 +2,9 @@
 
 <p align="center"> 
 Soy Elias Valenzuela, desarrollador Full Stack 🖤
+<br>
 Me considero una persona proactiva y autodidacta con ganas de aprender, entusiasmada e interesada en nuevos proyectos
+<br>
 Se vienen grandes cambios 🖤 Hibytes 🖤
 </p>
 
