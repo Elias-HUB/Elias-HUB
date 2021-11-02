@@ -23,10 +23,6 @@ Skills
 <img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732190.png">
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<br>
-<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
 
 <div align="center" style="display:flex;">
