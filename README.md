@@ -1,11 +1,11 @@
-# Bienvenido <img src="https://img.icons8.com/cotton/50/000000/laptop-coding.png"/>
+# Bienvenidos <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-dark-skin-tone.png"/>
 
 - 💻 Actualmente estoy trabajando en [Zoologic](https://www.zoologic.com.ar/).
 - 👨‍💻 Actualmente estoy aprendiendo PHP por mi cuenta.
 - 📫 Consultas: eliasvalenzuela953@gmail.com
 
 <h3 align="center">
-**Languages and Tools:**  
+Skills
 </h3>
   
 <div align="center" style="display:flex;">
@@ -25,7 +25,7 @@
 <br>
 <div align="center" style="display:flex;">
   <h3 align="center"> 
-  ## 🤖 Contact me:
+  ## 🤖 Contáctame:
   </h3>
 <a target="_blank" href="https://github.com/Elias-HUB"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/eliasvalenzuela/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
