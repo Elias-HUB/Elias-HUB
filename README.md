@@ -1,4 +1,4 @@
-### Bienvenido 👋
+# Bienvenido 👋
 
 - 💻 Actualmente estoy trabajando en [Zoologic](https://www.zoologic.com.ar/).
 - 👨‍💻 Actualmente estoy aprendiendo PHP por mi cuenta.
@@ -24,13 +24,16 @@
 <br>
 <br>
 <div align="center" style="display:flex;">
-  <p align="center"> 
-  ### 🤖 Contact me:
-  </p>
+  <h3 align="center"> 
+  ## 🤖 Contact me:
+  </h3>
 <a href="https://github.com/Elias-HUB"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/eliasvalenzuela/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 <a href="mailto:eliasvalenzuela953@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png"/></a>
 </div>
+
+<br>
+<br>
 
 <div align="center" style="display:flex;">
 <a href="https://github.com/Elias-HUB">
