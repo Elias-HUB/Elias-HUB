@@ -17,15 +17,16 @@ Skills
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/officel/480/000000/react.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="top" height="50px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  
+<img align="top" height="50px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/>  
 <br>
 <img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732212.png">
 <img align="top" height="50px" src="https://image.flaticon.com/icons/png/128/732/732190.png">
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<br>
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="top" height="50px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </div>
 
 <div align="center" style="display:flex;">
