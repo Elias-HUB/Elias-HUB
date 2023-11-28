@@ -1,16 +1,16 @@
 # Bienvenidos a mi espacio <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-dark-skin-tone.png"/>
 
 <p align="center"> 
-Soy Elias Valenzuela, desarrollador Full Stack 🖤
-<br>
-Me considero una persona proactiva y autodidacta con ganas de aprender, entusiasmada e interesada en nuevos proyectos
-<br>
-Se vienen grandes cambios 🖤 CoderMount 🖤
+# Desarrollador Full Stack - Elias Valenzuela 🖤
+<br><br>
+¡Hola! Soy Elias Valenzuela, un desarrollador Full Stack apasionado por la creación de soluciones innovadoras. Soy proactivo, autodidacta y siempre estoy buscando aprender y enfrentar nuevos desafíos.
+<br><br>
+Actualmente estoy trabajando en Mercado Libre como Software engineer.
+  <br><br>
+Se vienen grandes cambios para mi empresita 🖤 CoderMount 🖤
 </p>
 
-<h3 align="center">
-Skills
-</h3>
+## Skills
   
 <div align="center" style="display:flex;">
 <img align="top" height="50px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
@@ -25,16 +25,15 @@ Skills
 <img align="top" height="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 
-<div align="center" style="display:flex;">
-  <h3 align="center"> 
-  🤖 Contáctame:
-  </h3>
+  ## Contáctame
+<div style="display:flex;">
 <a target="_blank" href="https://github.com/Elias-HUB"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/eliasvalenzuela/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
-<a target="_blank" href="mailto:eliasvalenzuela953@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail.png"/></a>
+<a target="_blank" href="mailto:elvalenzuela@codermount.com"><img src="https://img.icons8.com/color/50/000000/gmail.png"/></a>
 </div>
 
-<br>
+
+  ## Estadísticas
 <div align="center" style="display:flex;">
 <a href="https://github.com/Elias-HUB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-HUB&theme=dark&hide_langs_below=1" />
